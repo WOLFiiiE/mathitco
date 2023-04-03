@@ -1,2 +1,0 @@
-# mathitco
-Math? Join Us
