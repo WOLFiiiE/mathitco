@@ -1,27 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://mathit.co.za/index.htm</loc>
+<loc>https://mathit.co.za/</loc>
+<lastmod>2023-06-29T08:21:25+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://mathit.co.za/tel:069 770 3900</loc>
-</url>
-<url>
-  <loc>https://mathit.co.za/tel:0633685556</loc>
-</url>
-  <url>
-  <loc>https://mathit.co.za/#about</loc>
-</url>
-  <url>
-  <loc>https://mathit.co.za/#services</loc>
-</url>
-  <url>
-  <loc>https://mathit.co.za/#offers</loc>
-</url>
-  <url>
-  <loc>https://mathit.co.za/#reviews</loc>
-</url>
-  <url>
-  <loc>https://mathit.co.za/#contactus</loc>
+<loc>https://mathit.co.za/index.htm</loc>
+<lastmod>2023-06-29T08:21:25+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 </urlset>
